@@ -1,0 +1,5 @@
+sphinx
+myst-parser
+furo
+sphinx_tippy
+sphinx-copybutton
